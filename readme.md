@@ -2,7 +2,7 @@
 
 Personal portfolio of a Python Full Stack Developer, built with only HTML, CSS and vanilla JavaScript.
 
-**Live:** https://mradarshpathak-dev.github.io/portfolio/
+**Live:**  https://mradarshpathak-dev.github.io/PortfolioV1/
 
 ## Features
 - Responsive layout (mobile, tablet, desktop)
